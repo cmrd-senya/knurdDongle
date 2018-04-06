@@ -9,5 +9,5 @@
 + `Сингх "Книга шифров" The Code Book  -f -a
 + just4fun Linus Torvalds  -history
 + The Joy of x. A Guided Tour of Math, from One to Infinity -joy -calculus
-+ "The Handmaid's Tale" Margaret Atwood
-+ Roger Penrose "The Emperor's New Mind"
++ "The Handmaid's Tale" Margaret Atwood -horror
++ Roger Penrose "The Emperor's New Mind" -fib
