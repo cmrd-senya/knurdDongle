@@ -14,4 +14,4 @@
 +  Гарднер Мартин "Аннотированная Алиса" -pedophilia
 +  `Richard Dawkins "The selfish gene"`
 + ТРИЗ
-+ `The Handmade's Tale" Margaret Atwood`
++ 
