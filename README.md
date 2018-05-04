@@ -13,5 +13,5 @@
 + Roger Penrose "The Emperor's New Mind" -fib
 +  Гарднер Мартин "Аннотированная Алиса" -pedophilia
 +  `Richard Dawkins "The selfish gene"`
-+ ТРИЗ
++ ТРИЗ -useful
 + 'SCUM Manifesto' Valerie Jean Solanas -femfascizm
