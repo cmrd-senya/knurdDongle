@@ -15,3 +15,4 @@
 +  `Richard Dawkins "The selfish gene"`
 + ТРИЗ -useful
 + 'SCUM Manifesto' Valerie Jean Solanas -femfascizm
++
