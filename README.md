@@ -16,3 +16,4 @@
 + ТРИЗ -useful
 + 'SCUM Manifesto' Valerie Jean Solanas -femfascizm
 +
++
