@@ -17,6 +17,6 @@
 + 'SCUM Manifesto' Valerie Jean Solanas -femfascizm
 + The Ambidextrous Universe //forgotten Chien-Shiung Wu 
 +
-+
+
 +
 +не забытт установить https://dev.to/brpaz/my-linux-development-environment-of-2018-ch7
