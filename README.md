@@ -17,7 +17,7 @@
 + 'SCUM Manifesto' Valerie Jean Solanas -femfascizm
 + The Ambidextrous Universe //forgotten Chien-Shiung Wu 
 + `"Погружение в паттерны" Швец`
-+ 
++ tapl -
 +
 +
 +
