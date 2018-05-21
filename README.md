@@ -13,14 +13,14 @@
 + Roger Penrose "The Emperor's New Mind" -fib
 +  Гарднер Мартин "Аннотированная Алиса" -pedophilia
 +  `Richard Dawkins "The selfish gene"`
-+ ТРИЗ -useful
++ ТРИЗ -useful // 4 части
 + 'SCUM Manifesto' Valerie Jean Solanas -femfascizm
 + The Ambidextrous Universe //forgotten Chien-Shiung Wu 
 + `"Погружение в паттерны" Швец`
 + tapl -
 + "Введение в функциональное программирование" Харрисон -
 + СИКП -
-+ Git for humans 2016 -law
++ Git for humans 2016 -law // 126стр
 +
 +
 +
