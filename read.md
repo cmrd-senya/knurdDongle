@@ -9,3 +9,4 @@
 
 + firaCode
 + https://github.com/rbanffy/3270font
++ https://s9w.github.io/font_compare/
