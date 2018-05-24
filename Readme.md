@@ -25,4 +25,4 @@
 + Гедель, Эшер, Бах: эта бесконечная гирлянда
 + 
 + https://livebook.manning.com/#!/book/get-programming-with-haskell/chapter-1/1
-
++ Г. Вейценбаум. Возможности вычислительных машин и человеческий разум -l
