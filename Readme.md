@@ -18,7 +18,7 @@
 + 'SCUM Manifesto' Valerie Jean Solanas -femfascizm
 + The Ambidextrous Universe //forgotten Chien-Shiung Wu 
 + `"Погружение в паттерны" Швец`
-+ tapl -
++ `tapl` \\TL
 + "Введение в функциональное программирование" Харрисон -
 + СИКП - \\TL
 + `Git for humans` 2016 -law // 126стр
