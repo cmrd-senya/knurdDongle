@@ -13,3 +13,4 @@
 + http://app.programmingfonts.org/#font3270
 
 словарь CS терминов, с достаточно подробными определениями и примерами кода/псевдокода.
++ https://medium.com/devschacht/charles-scalfani-so-you-want-to-be-a-functional-programmer-part-5-d78044d54675https://medium.com/devschacht/charles-scalfani-so-you-want-to-be-a-functional-programmer-part-5-d78044d54675
