@@ -29,7 +29,7 @@
 + Kyle Simpson Html5 Cookbook//289стр
 + "Automate the Boring Stuff with Python: Practical Programming for Total Begginers" Albert Sweigart
 + "Изучаем PHP 7" Скляр
-+
++ Зандастра "PHP обьекты, шаблоны и методики программирования" //
 +
 +
 +
