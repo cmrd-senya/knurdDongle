@@ -1,5 +1,5 @@
 
-### Books and reviews
+### Books and reviews. Buy later
 ****
 
 + Э. Эбботт.  "Флатландия" -f 
@@ -30,6 +30,6 @@
 + "Automate the Boring Stuff with Python: Practical Programming for Total Begginers" Albert Sweigart
 + "Изучаем PHP 7" Скляр
 + Зандастра "PHP обьекты, шаблоны и методики программирования" //
-+
++ `PHP 7 в подлинике" Котеров, Симдянов //1073стр`
 +
 +
