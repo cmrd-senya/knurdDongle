@@ -44,3 +44,4 @@
 + Wordpress by Дэмстра, Уильямс, Стэрн // 466стр
 + The Clean Coder by R. Martin //244стр
 + Design concepts in programming languages by Turbak //1347p TL
++ Фримен Ангуляр //800стр
