@@ -45,3 +45,4 @@
 + The Clean Coder by R. Martin //244стр
 + Design concepts in programming languages by Turbak //1347p TL
 + Фримен Ангуляр //800стр
++ Гарри Поттер и методы рационального мышления //TL
