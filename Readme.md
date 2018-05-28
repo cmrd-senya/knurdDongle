@@ -34,3 +34,4 @@
 + Docker in Action by Jeff Nickoloff //
 + Локхарт modern PHP //306стр
 + Читаем Тьюринга by Петцольд //21стр
++ Html, Javascript, PHP, MySQL by Дронов, Прохоренок // 766стр
