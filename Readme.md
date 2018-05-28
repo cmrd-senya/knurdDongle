@@ -42,4 +42,4 @@
 + Информатика by Макарова, Волков //575стр
 + HTML5, Css, JS tt by Collins //568
 + Wordpress by Дэмстра, Уильямс, Стэрн // 466стр
-+ The Clean Coder by R. Martin
++ The Clean Coder by R. Martin //244стр
