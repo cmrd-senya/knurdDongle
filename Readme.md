@@ -10,12 +10,11 @@
 + `Сингх "Книга шифров" The Code Book  -f -a`
 + `just4fun Linus Torvalds ` -history +
 + The Joy of x. A Guided Tour of Math, from One to Infinity -joy -calculus
-+ "The Handmaid's Tale" Margaret Atwood -horror +
 + Roger Penrose "The Emperor's New Mind" -fib
 +  Гарднер Мартин "Аннотированная Алиса" -pedophilia
 +  `Richard Dawkins "The selfish gene"` +
 + ТРИЗ -useful // 4 части TL
-+ 'SCUM Manifesto' Valerie Jean Solanas -femfascizm +
+
 + The Ambidextrous Universe //forgotten Chien-Shiung Wu +
 + `"Погружение в паттерны" Швец`
 + `tapl` \\TL
@@ -45,19 +44,8 @@
 + The Clean Coder by R. Martin //244стр
 + Design concepts in programming languages by Turbak //1347p TL
 + Фримен Ангуляр //800стр
-+ Гарри Поттер и методы рационального мышления //TL
-+ Абсолютное превосходство by Артур Кларк +
-+ День статистика by Дж. Блиш +
-+ Неприятности с Симом by Эдвард Маккин +
-+ Нульсторонний профессор by Мартин Гарднер +
-+ Остров пяти красок by Мартин Гарднер +
-+ Высокая миссия by Серрадор +
-+ Не вижу зла by Джон Пирс +
-+ Фактор ограничений by Саймак +
-+ Выборы by Айзек Азимов +
-+ Чувство силы by Айзек Азимов +
-+ Неувязка со временем by Артур Кларк +
-+ Машина-победитель by Айзек Азимов +
+
+
 + От мозаики Пенроуза к надежным шифрам by Мартин Гарднер //417p - 
 + Ruby: OOP by Метц //304с 
 +
@@ -71,3 +59,19 @@
 +
 +
 
+
++ Гарри Поттер и методы рационального мышления //TL
++ Абсолютное превосходство by Артур Кларк +
++ День статистика by Дж. Блиш +
++ Неприятности с Симом by Эдвард Маккин +
++ Нульсторонний профессор by Мартин Гарднер +
++ Остров пяти красок by Мартин Гарднер +
++ Высокая миссия by Серрадор +
++ Не вижу зла by Джон Пирс +
++ Фактор ограничений by Саймак +
++ Выборы by Айзек Азимов +
++ Чувство силы by Айзек Азимов +
++ Неувязка со временем by Артур Кларк +
++ Машина-победитель by Айзек Азимов +
++ 'SCUM Manifesto' Valerie Jean Solanas -femfascizm +
++ "The Handmaid's Tale" Margaret Atwood -horror +
