@@ -44,11 +44,9 @@
 + The Clean Coder by R. Martin //244стр
 + Design concepts in programming languages by Turbak //1347p TL
 + Фримен Ангуляр //800стр
-
-
 + От мозаики Пенроуза к надежным шифрам by Мартин Гарднер //417p - 
 + Ruby: OOP by Метц //304с 
-+
++ Смолток. Язык и его реализация by Goldberg and Robson //669p
 +
 +
 +
