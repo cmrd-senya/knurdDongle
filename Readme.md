@@ -50,7 +50,7 @@
 + ProGit by Chacon & Straub //519p
 + Beginning Software Engineering by R. Stephens //482
 + UNIX by Робачевский // 656с
-+
++ Сети by Олифер // 996p
 +
 +
 +
