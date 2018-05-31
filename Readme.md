@@ -56,7 +56,7 @@
 +
 +
 
-
++ The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary" Реймонд
 + Как сдвинуть гору Фудзи by Паундстоун //159p
 +  `Richard Dawkins "The selfish gene"` +
 + Гарри Поттер и методы рационального мышления //TL
