@@ -50,7 +50,7 @@
 + OOP by Buch //517p
 + The C pr language by Ritchie //236p
 + ProGit by Chacon & Straub //519p
-+
++ Beginning Software Engineering by R. Stephens
 +
 +
 +
