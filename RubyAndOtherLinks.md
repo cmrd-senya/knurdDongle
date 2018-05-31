@@ -31,3 +31,4 @@ http://www.htdp.org/2018-01-06/Book/
 https://tour.golang.org/welcome/1
 https://learn-anything.xyz
 https://codetogo.io/
+https://codepen.io/patterns
