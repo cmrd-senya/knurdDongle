@@ -12,9 +12,7 @@
 + The Joy of x. A Guided Tour of Math, from One to Infinity -joy -calculus
 + Roger Penrose "The Emperor's New Mind" -fib
 +  Гарднер Мартин "Аннотированная Алиса" -pedophilia
-+  `Richard Dawkins "The selfish gene"` +
 + ТРИЗ -useful // 4 части TL
-
 + The Ambidextrous Universe //forgotten Chien-Shiung Wu +
 + `"Погружение в паттерны" Швец`
 + `tapl` \\TL
@@ -51,13 +49,13 @@
 + The C pr language by Ritchie //236p
 + ProGit by Chacon & Straub //519p
 + Beginning Software Engineering by R. Stephens //482
-+
++ UNIX by Робачевский // 656с
 +
 +
 +
 +
 
-
++  `Richard Dawkins "The selfish gene"` +
 + Гарри Поттер и методы рационального мышления //TL
 + Абсолютное превосходство by Артур Кларк +
 + День статистика by Дж. Блиш +
