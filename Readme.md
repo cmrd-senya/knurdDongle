@@ -56,7 +56,7 @@
 +
 +
 
-+ `Основы алгоритмического мышления by Шереметьев` //77p
+
 + «Design of Design» Брукс
 + The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary" Реймонд
 + Как сдвинуть гору Фудзи by Паундстоун //159p
