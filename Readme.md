@@ -56,7 +56,7 @@
 +
 +
 +
-
++
 
 + «Design of Design» Брукс
 + The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary" Реймонд
