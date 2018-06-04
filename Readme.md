@@ -9,7 +9,7 @@
 + Концепции современной математики" Я. Стюарт -future
 + Алекс Беллос "Алекс в стране чудес. Необычное путешествие в мир математики" -f
 + `Сингх "Книга шифров" The Code Book  -f -a`
-+ `just4fun Linus Torvalds ` -history +
++ `just4fun Linus Torvalds ` -MUSTREAD -FOSS
 + The Joy of x. A Guided Tour of Math, from One to Infinity -joy -calculus
 + Roger Penrose "The Emperor's New Mind" -fib
 +  Гарднер Мартин "Аннотированная Алиса" -pedophilia
