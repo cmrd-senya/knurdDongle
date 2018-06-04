@@ -2,7 +2,7 @@
 ### Books and reviews. Buy later
 ****
 
-+ PHP7 in easy steps, 5th edition by Mike McGrath
++ PHP7 in easy steps, 5th edition by Mike McGrath // 256стр
 + Э. Эбботт.  "Флатландия" -f 
 + "Апология математики" Владимир Успенский -beginners +
 +  `«Симпсоны и их математические секреты» Саймон Сингх` -awesome +
