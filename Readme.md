@@ -1,6 +1,8 @@
 
 ### Books and reviews. Buy later
 ****
+
++ Основные концепции языков программирования by Себеста//659
 + Дизайн привычных вещей by Норман//364
 + DevOps Automation Cookbook by Duffy//334
 + Ansible From beginner to Pro//182
