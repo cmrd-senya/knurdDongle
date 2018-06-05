@@ -1,7 +1,7 @@
 
 ### Books and reviews. Buy later
 ****
-
++ Essential of programming languages by  Daniel P. Friedman, Mitchell Wand, and Christopher T. Haynes //433
 + PHP7 in easy steps, 5th edition by Mike McGrath // 256стр, -2015
 + Э. Эбботт.  "Флатландия" -f 
 + "Апология математики" Владимир Успенский -beginners +
