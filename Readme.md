@@ -1,14 +1,16 @@
 
 ### Books and reviews. Buy later
 ****
++
++
 + Essential of programming languages by  Daniel P. Friedman, Mitchell Wand, and Christopher T. Haynes //433
 + Programming languages pragmatics by Michael Scott //990
 + PHP7 in easy steps, 5th edition by Mike McGrath // 256стр, -2015
-+ Э. Эбботт.  "Флатландия" -f 
+
 + "Апология математики" Владимир Успенский -beginners +
 +  `«Симпсоны и их математические секреты» Саймон Сингх` -awesome +
 + Концепции современной математики" Я. Стюарт -future
-+ Алекс Беллос "Алекс в стране чудес. Необычное путешествие в мир математики" -f
+
 + `Сингх "Книга шифров" The Code Book  -f -a`
 + `just4fun Linus Torvalds ` -MUSTREAD -FOSS
 + The Joy of x. A Guided Tour of Math, from One to Infinity -joy -calculus
@@ -60,6 +62,9 @@
 +
 +
 
+
++ Алекс Беллос "Алекс в стране чудес. Необычное путешествие в мир математики" -f
++ Э. Эбботт.  "Флатландия" -f 
 + «Design of Design» Брукс
 + The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary" Реймонд
 + `Как сдвинуть гору Фудзи by Паундстоун ` //159p
