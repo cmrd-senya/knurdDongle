@@ -2,7 +2,7 @@
 ### Books and reviews. Buy later
 ****
 +
-+
++ Ansible From beginner to Pro//182
 + Essential of programming languages by  Daniel P. Friedman, Mitchell Wand, and Christopher T. Haynes //433
 + Programming languages pragmatics by Michael Scott //990
 + PHP7 in easy steps, 5th edition by Mike McGrath // 256стр, -2015
