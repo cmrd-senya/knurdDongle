@@ -2,6 +2,7 @@
 ### Books and reviews. Buy later
 ****
 +
++ DevOps Automation Cookbook by Duffy//334
 + Ansible From beginner to Pro//182
 + Essential of programming languages by  Daniel P. Friedman, Mitchell Wand, and Christopher T. Haynes //433
 + Programming languages pragmatics by Michael Scott //990
