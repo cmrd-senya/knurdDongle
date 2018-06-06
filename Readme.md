@@ -93,4 +93,4 @@
 + Неувязка со временем by Артур Кларк +
 + Машина-победитель by Айзек Азимов +
 + 'SCUM Manifesto' Valerie Jean Solanas -femfascizm +
-+ "The Handmaid's Tale" Margaret Atwood -horror +
++ ~~"The Handmaid's Tale" Margaret Atwood -horror~~ +
