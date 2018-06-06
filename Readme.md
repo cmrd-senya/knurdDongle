@@ -4,7 +4,7 @@
 
 + Алгоритмы и структуры данных by Вирт//274
 + Основные концепции языков программирования by Себеста//659
-+ Дизайн привычных вещей by Норман//364
++ Дизайн привычных вещей by Норман//364 -amiss
 + DevOps Automation Cookbook by Duffy//334
 + Ansible From beginner to Pro//182
 + Essential of programming languages by  Daniel P. Friedman, Mitchell Wand, and Christopher T. Haynes //433
