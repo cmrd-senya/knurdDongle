@@ -78,19 +78,19 @@
 + «Design of Design» Брукс
 + The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary" Реймонд
 + `Как сдвинуть гору Фудзи by Паундстоун ` //159p
-+  `Richard Dawkins "The selfish gene"` +
++  ~~`Richard Dawkins "The selfish gene"` +~~
 + Гарри Поттер и методы рационального мышления //TL
 + Абсолютное превосходство by Артур Кларк +
-+ День статистика by Дж. Блиш +
-+ Неприятности с Симом by Эдвард Маккин +
-+ Нульсторонний профессор by Мартин Гарднер +
-+ Остров пяти красок by Мартин Гарднер +
-+ Высокая миссия by Серрадор +
-+ Не вижу зла by Джон Пирс +
++ ~~День статистика by Дж. Блиш ~~+
++ ~~Неприятности с Симом by Эдвард Маккин~~ +
++ ~~ульсторонний профессор by Мартин Гарднер ~~+
++ ~~Остров пяти красок by Мартин Гарднер~~ +
++ ~~Высокая миссия by Серрадор ~~ +
++ ~Не вижу зла by Джон Пирс +
 + Фактор ограничений by Саймак +
 + Выборы by Айзек Азимов +
-+ Чувство силы by Айзек Азимов +
++ Чувство силы by Айзек Азимов ~~ +
 + Неувязка со временем by Артур Кларк +
 + Машина-победитель by Айзек Азимов +
-+ 'SCUM Manifesto' Valerie Jean Solanas -femfascizm +
++ ~~'SCUM Manifesto' Valerie Jean Solanas -femfascizm +~~
 + ~~"The Handmaid's Tale" Margaret Atwood -horror~~ +
