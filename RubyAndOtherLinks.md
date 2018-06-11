@@ -35,3 +35,4 @@ https://codepen.io/patterns
 https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a
 https://tproger.ru/articles/problems/
 https://www.schoolofhaskell.com/school/starting-with-haskell
+https://php-up.com/lesson
