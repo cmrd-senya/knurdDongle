@@ -5,13 +5,13 @@
 - [ ] Прелюдия к математике by Сойер//192
 - [ ] Основы формальных логических языков by Коротков//85 -math
 - [ ] Алгоритмы и структуры данных by Вирт//274
-+ Основные концепции языков программирования by Себеста//659
-+ Дизайн привычных вещей by Норман//364 -amiss
-+ DevOps Automation Cookbook by Duffy//334
-+ Ansible From beginner to Pro//182
-+ Essential of programming languages by  Daniel P. Friedman, Mitchell Wand, and Christopher T. Haynes //433
-+ Programming languages pragmatics by Michael Scott //990
-+ PHP7 in easy steps, 5th edition by Mike McGrath // 256стр, -2015
+- [ ] Основные концепции языков программирования by Себеста//659
+- [ ] Дизайн привычных вещей by Норман//364 -amiss
+- [ ] DevOps Automation Cookbook by Duffy//334
+- [ ] Ansible From beginner to Pro//182
+- [ ] Essential of programming languages by  Daniel P. Friedman, Mitchell Wand, and Christopher T. Haynes //433
+- [ ] Programming languages pragmatics by Michael Scott //990
+- [ ] PHP7 in easy steps, 5th edition by Mike McGrath // 256стр, -2015
 
 + ~~"Апология математики" Владимир Успенский~~-beginners +
 - [x] `«Симпсоны и их математические секреты» Саймон Сингх` -awesome +
