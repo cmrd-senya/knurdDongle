@@ -13,12 +13,12 @@
 - [ ] Programming languages pragmatics by Michael Scott //990
 - [ ] PHP7 in easy steps, 5th edition by Mike McGrath // 256стр, -2015
 
-+ ~~"Апология математики" Владимир Успенский~~-beginners +
-- [x] `«Симпсоны и их математические секреты» Саймон Сингх` -awesome +
+- [x] "Апология математики" Владимир Успенский -beginners +
+`«Симпсоны и их математические секреты» Саймон Сингх` -awesome +
 + Концепции современной математики" Я. Стюарт -future
 
 + `Сингх "Книга шифров" The Code Book  -f -a`
-+ ~~`just4fun Linus Torvalds `~~ -MUSTREAD -FOSS
+- [x] `just4fun Linus Torvalds ` -MUSTREAD -FOSS
 + The Joy of x. A Guided Tour of Math, from One to Infinity -joy -calculus
 + Roger Penrose "The Emperor's New Mind" -fib
 +  Гарднер Мартин "Аннотированная Алиса" -pedophilia
@@ -80,9 +80,9 @@
 + «Design of Design» Брукс
 + The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary" Реймонд
 + `Как сдвинуть гору Фудзи by Паундстоун ` //159p
-+  ~~`Richard Dawkins "The selfish gene"` +~~
+- [x] `Richard Dawkins "The selfish gene"` 
 + Гарри Поттер и методы рационального мышления //TL
-+ ~~Абсолютное превосходство by Артур Кларк~~ +
+- [x] Абсолютное превосходство by Артур Кларк +
 + ~~День статистика by Дж. Блиш~~ +
 + ~~Неприятности с Симом by Эдвард Маккин~~ +
 + ~~Нульсторонний профессор by Мартин Гарднер~~ +
