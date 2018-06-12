@@ -2,7 +2,7 @@
 ### Books and reviews. Buy later
 ****
 
-- [х] Не заставляйте меня думать// слишком легкая, элементарщина
+- [x] Не заставляйте меня думать// слишком легкая, элементарщина
 - [ ] Программист-фанатик by Чад Фаулер//
 - [ ] Прелюдия к математике by Сойер//192
 - [ ] Основы формальных логических языков by Коротков//85 -math
@@ -19,30 +19,30 @@
 + `«Симпсоны и их математические секреты» Саймон Сингх` -awesome 
 + Концепции современной математики" Я. Стюарт -future
 
-+ `Сингх "Книга шифров" The Code Book  -f -a`
+- [ ] `Сингх "Книга шифров" The Code Book  -f -a`
 - [x] `just4fun Linus Torvalds ` -MUSTREAD -FOSS
-+ The Joy of x. A Guided Tour of Math, from One to Infinity -joy -calculus
-+ Roger Penrose "The Emperor's New Mind" -fib
-+  Гарднер Мартин "Аннотированная Алиса" -pedophilia
-+ ТРИЗ -useful // 4 части TL
-+ The Ambidextrous Universe //forgotten Chien-Shiung Wu +
-+ `"Погружение в паттерны" Швец`
-+ `tapl` \\TL
-+ "Введение в функциональное программирование" Харрисон -
-+ СИКП - \\TL
-+ `Git for humans` 2016 -law // 126стр +
-+ Гедель, Эшер, Бах: эта бесконечная гирлянда TL
-+ "Освой самостоятельно UML за 24 часа" Дж. Шмуллер //401стр
-+ https://livebook.manning.com/#!/book/get-programming-with-haskell/chapter-1/1
-+ Г. Вейценбаум. Возможности вычислительных машин и человеческий разум -l
-+ Kyle Simpson Html5 Cookbook//289стр
-+ "Automate the Boring Stuff with Python: Practical Programming for Total Begginers" Albert Sweigart
-+ "Изучаем PHP 7" Скляр
-+ Зандастра "PHP обьекты, шаблоны и методики программирования" //
-+ `PHP 7 в подлинике" Котеров, Симдянов //1073стр`
-+ Docker in Action by Jeff Nickoloff //
-+ Локхарт modern PHP //306стр
-+ Читаем Тьюринга by Петцольд | Annotated Turing // 385p+  
+- [ ] The Joy of x. A Guided Tour of Math, from One to Infinity -joy -calculus
+- [ ]  Roger Penrose "The Emperor's New Mind" -fib
+- [ ]  Гарднер Мартин "Аннотированная Алиса" -pedophilia
+- [ ]  ТРИЗ -useful // 4 части TL
+- [ ]  The Ambidextrous Universe //forgotten Chien-Shiung Wu +
+- [ ]  `"Погружение в паттерны" Швец`
+- [ ]  `tapl` \\TL
+- [ ]  "Введение в функциональное программирование" Харрисон -
+- [ ]  СИКП - \\TL
+- [ ]  `Git for humans` 2016 -law // 126стр +
+- [ ]  Гедель, Эшер, Бах: эта бесконечная гирлянда TL
+- [ ]  "Освой самостоятельно UML за 24 часа" Дж. Шмуллер //401стр
+- [ ]  https://livebook.manning.com/#!/book/get-programming-with-haskell/chapter-1/1
+- [ ]  Г. Вейценбаум. Возможности вычислительных машин и человеческий разум -l
+- [ ]  Kyle Simpson Html5 Cookbook//289стр
+- [ ]  "Automate the Boring Stuff with Python: Practical Programming for Total Begginers" Albert Sweigart
+- [ ]  "Изучаем PHP 7" Скляр
+- [ ]  Зандастра "PHP обьекты, шаблоны и методики программирования" //
+- [ ]  `PHP 7 в подлинике" Котеров, Симдянов //1073стр`
+- [ ]  Docker in Action by Jeff Nickoloff //
+- [ ]  Локхарт modern PHP //306стр
+- [ ] Читаем Тьюринга by Петцольд | Annotated Turing // 385p+  
 - [ ] Html, Javascript, PHP, MySQL by Дронов, Прохоренок // 766стр
 - [ ] Сценарии командной оболочки by Тейлор, Перри //363стр
 - [ ] Семь языков программирования за 7 недель by Тейт // 386стр
