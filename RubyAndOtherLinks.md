@@ -36,3 +36,4 @@ https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-samp
 https://tproger.ru/articles/problems/
 https://www.schoolofhaskell.com/school/starting-with-haskell
 https://php-up.com/lesson
+https://www.youtube.com/watch?v=CvfifZsmpQ4&list=PLa7HTNb5UWMn7Z4Hp94aM5VYIBJMwZ-tW
