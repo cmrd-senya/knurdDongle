@@ -63,7 +63,7 @@
 - [ ] Beginning Software Engineering by R. Stephens //482
 - [ ] UNIX by Робачевский // 656с
 - [ ] Сети by Олифер // 996p
-№№№
+####
 - [ ] Веселое и занимательное о числах и фигурах by Литцман //281
 - [ ] Алекс Беллос "Алекс в стране чудес. Необычное путешествие в мир математики" -f
 - [ ] Э. Эбботт.  "Флатландия" -f 
@@ -86,3 +86,4 @@
 - [x] Машина-победитель by Айзек Азимов 
 - [x] 'SCUM Manifesto' Valerie Jean Solanas -femfascizm 
 - [x] "The Handmaid's Tale" Margaret Atwood -horror 
+- [ ] A VINDICATION OF THE RIGHTS OF WOMAN, WITH STRICTURES ON POLITICAL AND MORAL SUBJECTS, BY MARY WOLLSTONECRAFT
