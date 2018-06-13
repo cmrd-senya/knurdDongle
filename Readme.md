@@ -87,3 +87,4 @@
 - [x] 'SCUM Manifesto' Valerie Jean Solanas -femfascizm 
 - [x] "The Handmaid's Tale" Margaret Atwood -horror 
 - [ ] A VINDICATION OF THE RIGHTS OF WOMAN, WITH STRICTURES ON POLITICAL AND MORAL SUBJECTS, BY MARY WOLLSTONECRAFT
+ https://en.m.wikipedia.org/wiki/Category:Radical_feminist_books
