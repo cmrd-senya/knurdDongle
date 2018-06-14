@@ -1,7 +1,7 @@
 
 ### Books and reviews. Buy later
 ****
-
+- [ ] Code by Charles Petzold//363p
 - [x] Не заставляйте меня думать// too easy
 - [ ] Программист-фанатик by Чад Фаулер//
 - [ ] Прелюдия к математике by Сойер//192
