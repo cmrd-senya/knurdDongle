@@ -1,8 +1,11 @@
 
 ### Books/papers/course and reviews. Buy later
 ****
++
 + https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/
 + https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
++ http://composingprograms.com
++ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/
 + The Seven Virtues of Simple Type Theory by William M. Farmer
 + A Generic Type-and-Effect System Daniel Marino Todd Millstein//12p
 + Type and Effect Systems by Flemming Nielson & Hanne Riis Nielson//23p
