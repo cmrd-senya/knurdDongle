@@ -1,7 +1,7 @@
 
 ### Books/papers and reviews. Buy later
 ****
-
++ The Seven Virtues of Simple Type Theory by William M. Farmer
 + A Generic Type-and-Effect System Daniel Marino Todd Millstein//12p
 + Type and Effect Systems by Flemming Nielson & Hanne Riis Nielson//23p
 + Type Systems by Luca Cardelli//42
