@@ -1,3 +1,5 @@
+ https://www.schoolofhaskell.com
+ 
  https://algoprog.ru/material/8
 
 https://developer.mozilla.org/ru/docs/Web/API/Web_Workers_API/Structured_clone_algorithm
