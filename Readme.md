@@ -1,5 +1,5 @@
 
-### Books/papers/course and reviews. Buy later
+### Books/course and reviews. Buy later
 ****
 +
 + https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/
@@ -78,7 +78,7 @@
 - [ ] Э. Эбботт.  "Флатландия" -f 
 - [ ] «Design of Design» Брукс
 - [ ] The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary" Реймонд
-- [ ] `Как сдвинуть гору Фудзи by Паундстоун ` //159p
+- [x] `Как сдвинуть гору Фудзи by Паундстоун ` //159p
 - [x] `Richard Dawkins "The selfish gene"` 
 - [ ] Гарри Поттер и методы рационального мышления //TL
 - [x] Абсолютное превосходство by Артур Кларк 
