@@ -2,6 +2,8 @@
 
 https://www.schoolofhaskell.com
  
+https://docs.python.org/3.7/tutorial/index.html
+
  https://enlight.nyc/home
  https://algoprog.ru/material/8
 
