@@ -1,4 +1,6 @@
- https://www.schoolofhaskell.com
+ https://github.com/search?q=is%3Aopen+label%3A"good+first+issue"
+
+https://www.schoolofhaskell.com
  
  https://enlight.nyc/home
  https://algoprog.ru/material/8
