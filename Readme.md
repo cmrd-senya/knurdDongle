@@ -7,6 +7,7 @@
 + http://composingprograms.com
 + https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/
 
+- [ ] История цифр. Числа, символы, слова by Меннингер
 - [ ] Женщины-математики. От Гипатии до Эмми Нётер by Хоакин Наварро
 - [ ] 16 уроков китайского языка by Петров/304
 - [ ] Карри Хаскелл Б. Основания математической логики
