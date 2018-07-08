@@ -7,6 +7,8 @@
 + http://composingprograms.com
 + https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/
 
+- [ ] Карри Хаскелл Б. Основания математической логики
+- [ ] Кемени Дж., Снелл Дж., Томпсон Дж. Введение в конечную математику
 - [ ] Введение в современную математику by Юрий Шиханович
 - [ ] Минимум по теории алгоритмов для нематематиков by Юрий Шиханович
 - [ ] Логические и математические исчисления by Юрий Шиханович
