@@ -7,6 +7,11 @@
 + http://composingprograms.com
 + https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/
 
+- [ ] Введение в современную математику by Юрий Шиханович
+- [ ] Минимум по теории алгоритмов для нематематиков by Юрий Шиханович
+- [ ] Логические и математические исчисления by Юрий Шиханович
+- [ ] Логика by Гетманова
+- [ ] Логика для юристов by Гетманова
 - [ ] Рассказы о числах, многочленах и фигурах by В.В.Прасолов. 
 - [ ] Code by Charles Petzold//363p
 - [x] Cамоучитель Python by Musin/136
