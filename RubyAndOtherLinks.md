@@ -1,4 +1,6 @@
- https://github.com/search?q=is%3Aopen+label%3A"good+first+issue"
+ https://code.gov/#/help-wanted
+
+https://github.com/search?q=is%3Aopen+label%3A"good+first+issue"
 
 https://www.schoolofhaskell.com
  
