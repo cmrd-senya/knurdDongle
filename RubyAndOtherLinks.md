@@ -1,3 +1,5 @@
+https://typing.io/lessons
+
 http://sandbox.mc.edu/~bennet/ruby/code/
 
  https://wiki.haskell.org/Haskell
