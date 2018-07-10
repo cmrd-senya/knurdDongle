@@ -1,4 +1,6 @@
- https://www.gitlogs.com/most_popular?topic=education
+ https://lotz84.github.io/haskellbyexample/
+
+https://www.gitlogs.com/most_popular?topic=education
 
 https://code.gov/#/help-wanted
 
