@@ -1,4 +1,8 @@
- https://lotz84.github.io/haskellbyexample/
+http://sandbox.mc.edu/~bennet/ruby/code/
+
+ https://wiki.haskell.org/Haskell
+
+https://lotz84.github.io/haskellbyexample/
 
 https://www.gitlogs.com/most_popular?topic=education
 
