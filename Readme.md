@@ -7,6 +7,8 @@
 + http://composingprograms.com
 + https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/
 
+DSL Engineering
+DSLs in Action Debasish Ghosh
 - [ ] Category theory for programmers by Bartosz Milewski
 - [ ] Category teory by Awodey/266
 - [ ] История цифр. Числа, символы, слова by Меннингер
