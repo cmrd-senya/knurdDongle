@@ -8,7 +8,7 @@
 + https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/
 
 
-
+- [ ] Seven Concurrency Models in Seven Weeks by Paul Butcher
 - [ ] DSL Engineering Markus Voelter
 - [ ] DSLs in Action Debasish Ghosh
 - [ ] Category theory for programmers by Bartosz Milewski
