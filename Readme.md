@@ -13,7 +13,7 @@
 - [ ] DSL Engineering Markus Voelter
 - [ ] DSLs in Action Debasish Ghosh
 - [ ] Category theory for programmers by Bartosz Milewski
-- [ ] Category teory by Awodey/266
+- [ ] Category theory by Awodey/266
 - [ ] История цифр. Числа, символы, слова by Меннингер
 - [ ] Женщины-математики. От Гипатии до Эмми Нётер by Хоакин Наварро
 - [ ] 16 уроков китайского языка by Петров/304
