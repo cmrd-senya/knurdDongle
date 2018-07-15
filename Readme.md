@@ -7,6 +7,7 @@
 + http://composingprograms.com
 + https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/
 
+- [ ] Математическая логика, основанная на теории типов by Бертран Рассел/42
 - [ ] The Art of Multiprocessor Programming
 - [ ] Desining Data-Intensive Applications by Martin Kleppmann
 - [ ] Seven Concurrency Models in Seven Weeks by Paul Butcher
