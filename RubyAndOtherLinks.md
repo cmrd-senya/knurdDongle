@@ -1,3 +1,6 @@
+
+http://docs.racket-lang.org
+
 https://typing.io/lessons
 
 http://sandbox.mc.edu/~bennet/ruby/code/
