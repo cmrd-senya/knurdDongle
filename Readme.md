@@ -7,29 +7,29 @@
 + http://composingprograms.com
 + https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/
 
-- [ ] Land of lisp
-- [ ] Realm Racket
-- [ ] Математическая логика, основанная на теории типов by Бертран Рассел/42
-- [ ] The Art of Multiprocessor Programming
-- [ ] Desining Data-Intensive Applications by Martin Kleppmann
-- [ ] Seven Concurrency Models in Seven Weeks by Paul Butcher
-- [ ] DSL Engineering Markus Voelter
-- [ ] DSLs in Action Debasish Ghosh
-- [ ] Category theory for programmers by Bartosz Milewski
-- [ ] Category theory by Awodey/266
-- [ ] История цифр. Числа, символы, слова by Меннингер
-- [ ] Женщины-математики. От Гипатии до Эмми Нётер by Хоакин Наварро
-- [ ] 16 уроков китайского языка by Петров/304
-- [ ] Карри Хаскелл Б. Основания математической логики
-- [ ] Кемени Дж., Снелл Дж., Томпсон Дж. Введение в конечную математику
-- [ ] Введение в современную математику by Юрий Шиханович
-- [ ] Минимум по теории алгоритмов для нематематиков by Юрий Шиханович
-- [ ] Логические и математические исчисления by Юрий Шиханович
-- [ ] Логика by Гетманова
-- [ ] Логика для юристов by Гетманова
-- [ ] Рассказы о числах, многочленах и фигурах by В.В.Прасолов. 
+- [ ] Land of lisp by Conrad Barski//
+- [ ] Realm Racket by Matthias Felleisen//316
+- [ ] Математическая логика, основанная на теории типов by Бертран Рассел//42
+- [ ] The Art of Multiprocessor Programming//
+- [ ] Desining Data-Intensive Applications by Martin Kleppmann//
+- [ ] Seven Concurrency Models in Seven Weeks by Paul Butcher//
+- [ ] DSL Engineering by Markus Voelter//
+- [ ] DSLs in Action by Debasish Ghosh//
+- [ ] Category theory for programmers by Bartosz Milewski//
+- [ ] Category theory by Awodey//266
+- [ ] История цифр. Числа, символы, слова by Меннингер//
+- [ ] Женщины-математики. От Гипатии до Эмми Нётер by Хоакин Наварро//
+- [ ] 16 уроков китайского языка by Петров//304
+- [ ] Карри Хаскелл Б. Основания математической логики//
+- [ ] Кемени Дж., Снелл Дж., Томпсон Дж. Введение в конечную математику//
+- [ ] Введение в современную математику by Юрий Шиханович//
+- [ ] Минимум по теории алгоритмов для нематематиков by Юрий Шиханович//
+- [ ] Логические и математические исчисления by Юрий Шиханович//
+- [ ] Логика by Гетманова//
+- [ ] Логика для юристов by Гетманова//
+- [ ] Рассказы о числах, многочленах и фигурах by В.В.Прасолов //
 - [ ] Code by Charles Petzold//363p
-- [x] Cамоучитель Python by Musin/136
+- [ ] Cамоучитель Python by Musin//136
 - [ ] Грокаем алгоритмы by А. Бхаргава//288p
 - [x] Не заставляйте меня думать// too easy
 - [x] `97 этюдов для программистов`//252p !
