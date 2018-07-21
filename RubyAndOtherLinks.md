@@ -1,4 +1,6 @@
 
+https://github.com/ruHaskell/ruhaskell/wiki/Настройка-редакторов-для-поддержки-Haskell
+
 http://docs.racket-lang.org
 
 https://typing.io/lessons
