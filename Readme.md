@@ -55,7 +55,7 @@
 - [ ]  Roger Penrose "The Emperor's New Mind" -fib
 - [ ]  Гарднер Мартин "Аннотированная Алиса" -pedophilia
 - [ ]  ТРИЗ -useful // 4 части TL
-- [ ]  The Ambidextrous Universe //forgotten Chien-Shiung Wu +
+- [ ]  The Ambidextrous Universe //forgotten Chien-Shiung Wu 
 - [ ]  `"Погружение в паттерны" Швец`
 - [ ]  `tapl` \\TL
 - [ ]  "Введение в функциональное программирование" Харрисон -
@@ -72,7 +72,7 @@
 - [ ]  `PHP 7 в подлинике" Котеров, Симдянов //1073стр`
 - [ ]  Docker in Action by Jeff Nickoloff //
 - [ ]  Локхарт modern PHP //306стр
-- [ ] Читаем Тьюринга by Петцольд | Annotated Turing // 385p+  
+- [ ] `Читаем Тьюринга by Петцольд | Annotated Turing `// 385p+  
 - [ ] Html, Javascript, PHP, MySQL by Дронов, Прохоренок // 766стр
 - [ ] Сценарии командной оболочки by Тейлор, Перри //363стр
 - [ ] Семь языков программирования за 7 недель by Тейт // 386стр
