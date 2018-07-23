@@ -7,6 +7,8 @@
 + http://composingprograms.com
 + https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/
 
+
+- [ ] Математика и правдоподобные рассуждения by Джордж Пойа//464
 - [ ] Land of lisp by Conrad Barski//
 - [ ] Realm Racket by Matthias Felleisen//316
 - [ ] Математическая логика, основанная на теории типов by Бертран Рассел//42
