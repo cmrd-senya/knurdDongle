@@ -1,4 +1,6 @@
 
+https://guides.rubyonrails.org
+
 https://racket-lang.org/books.html
 
 https://exercism.io/my/tracks/haskell
