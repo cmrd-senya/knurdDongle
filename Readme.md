@@ -8,6 +8,13 @@
 + https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/
 
 
+- [ ] Practical Object-Oriented Design: An Agile Primer Using Ruby (2nd Edition) 2nd Edition by Sandi Metz 
+- [ ] Design Patterns in Ruby 1st Edition by Russ Olsen  (Author)
+- [ ] Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition by Eric Evans 
+- [ ] UNIX and Linux System Administration Handbook, 4th Edition 4th Edition by Evi Nemeth
+- [ ] Modern Operating Systems (4th Edition) 4th Edition by Andrew S. Tanenbaum 
+- [ ] Distributed Systems: Principles and Paradigms 2nd Edition by Andrew S. Tanenbaum
+- [ ] Understanding Computation From Simple Machines to Impossible Programs by Tom Stuart
 - [ ] Simon Thompson The Craft of Functional Programming
 - [ ] Математика и правдоподобные рассуждения by Джордж Пойа//464
 - [ ] Land of lisp by Conrad Barski//
