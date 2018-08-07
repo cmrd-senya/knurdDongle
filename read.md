@@ -1,4 +1,5 @@
 
++ https://syntaxdb.com/ref/javascript/closures
 + https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop
 
 + не забыть установить https://dev.to/brpaz/my-linux-development-environment-of-2018-ch7
