@@ -76,3 +76,5 @@ https://www.schoolofhaskell.com/school/starting-with-haskell
 https://php-up.com/lesson
 https://www.youtube.com/watch?v=CvfifZsmpQ4&list=PLa7HTNb5UWMn7Z4Hp94aM5VYIBJMwZ-tW
 https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3A"help+wanted"
+
+http://wiki.amperka.ru/
