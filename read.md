@@ -1,4 +1,6 @@
 
+
++ https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 + https://syntaxdb.com/ref/javascript/closures
 + https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop
 
