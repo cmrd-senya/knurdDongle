@@ -1,4 +1,7 @@
 
+
++ https://stackoverflow.com/questions/1012573/getting-started-with-haskell
+
 + https://dev.to/aspittel/my-favorite-free-resources-for-new-programmers-bia
 + https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22
 + https://syntaxdb.com/ref/javascript/closures
