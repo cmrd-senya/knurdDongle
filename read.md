@@ -1,5 +1,13 @@
++ https://stackoverflow.com/questions/3276240/tools-for-analyzing-performance-of-a-haskell-program
++ https://stackoverflow.com/questions/6398996/good-haskell-source-to-read-and-learn-from
++ https://stackoverflow.com/questions/3063652/whats-the-status-of-multicore-programming-in-haskell
++ https://stackoverflow.com/questions/44965/what-is-a-monad/194207#194207
++ https://stackoverflow.com/questions/394645/haskell-for-a-server
 
 
++ https://stackoverflow.com/questions/6003728/what-are-the-most-important-abstractions-in-haskell-monads-applicatives?noredirect=1&lq=1
+
++ https://stackoverflow.com/questions/1012573/getting-started-with-haskell/1016986#1016986
 + https://stackoverflow.com/questions/1012573/getting-started-with-haskell
 
 + https://dev.to/aspittel/my-favorite-free-resources-for-new-programmers-bia
