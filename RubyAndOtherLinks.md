@@ -78,3 +78,4 @@ https://www.youtube.com/watch?v=CvfifZsmpQ4&list=PLa7HTNb5UWMn7Z4Hp94aM5VYIBJMwZ
 https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3A"help+wanted"
 
 http://wiki.amperka.ru/
+https://nixos.wiki/wiki/NixOS_friendly_hosters
