@@ -72,6 +72,7 @@ https://codetogo.io/
 https://codepen.io/patterns
 https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a
 https://tproger.ru/articles/problems/
+https://www.prettyawesomelists.com/lists/github/sindresorhus/awesome
 https://www.schoolofhaskell.com/school/starting-with-haskell
 https://php-up.com/lesson
 https://www.youtube.com/watch?v=CvfifZsmpQ4&list=PLa7HTNb5UWMn7Z4Hp94aM5VYIBJMwZ-tW
