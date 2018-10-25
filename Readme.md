@@ -8,6 +8,7 @@
 + http://composingprograms.com
 + https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/
 
+- [ ] Бертран Рассел «Похвала праздности»
 - [ ] Ruby Under a Microscope: An Illustrated Guide to Ruby Internals 1st Edition by Pat Shaughnessy //hard
 - [ ] Practical Object-Oriented Design: An Agile Primer Using Ruby 2nd Edition by Sandi Metz 
 - [ ] Design Patterns in Ruby 1st Edition by Russ Olsen  (Author)
