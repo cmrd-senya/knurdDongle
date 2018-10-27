@@ -18,3 +18,6 @@
 - [x] "The Handmaid's Tale" Margaret Atwood -horror 
 - [ ] A VINDICATION OF THE RIGHTS OF WOMAN, WITH STRICTURES ON POLITICAL AND MORAL SUBJECTS, BY MARY WOLLSTONECRAFT
 - [ ] https://en.m.wikipedia.org/wiki/Category:Radical_feminist_books
+- [ ] Алекс Беллос "Алекс в стране чудес. Необычное путешествие в мир математики" -f
+- [ ] Э. Эбботт.  "Флатландия" -f 
+- [ ] «Design of Design» Брукс
