@@ -1,5 +1,5 @@
 
-### Books/course and reviews. Buy later
+### Books
 ****
 
 
