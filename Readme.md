@@ -106,7 +106,7 @@
 - [ ] Веселое и занимательное о числах и фигурах by Литцман //281
 
 - [ ] The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary" Реймонд
-- [x] `Как сдвинуть гору Фудзи by Паундстоун ` //159p
+
 
 - [ ] https://felixit.blog/on-books/
-- [ ] Фридрих Георг Юнгер «Совершенство техники» 
+
