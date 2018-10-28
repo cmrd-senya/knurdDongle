@@ -1,4 +1,5 @@
 
+- [ ] Cognition in Practice: Mind, Mathematics and Culture in Everyday Life (Learning in Doing) by Jean Lave  
 - [ ] Бертран Рассел «Похвала праздности»
 - [x] `Richard Dawkins "The selfish gene"` 
 - [ ] Гарри Поттер и методы рационального мышления //TL
