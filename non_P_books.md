@@ -1,4 +1,12 @@
-
+- [x] Не заставляйте меня думать// too easy
+- [ ] Прелюдия к математике by Сойер//192
+- [x] `just4fun Linus Torvalds ` -MUSTREAD -FOSS
+- [ ]  The Ambidextrous Universe //forgotten Chien-Shiung Wu 
+- [ ]  Гедель, Эшер, Бах: эта бесконечная гирлянда TL
+- [ ]  "Освой самостоятельно UML за 24 часа" Дж. Шмуллер //401стр
+- [ ]  Г. Вейценбаум. Возможности вычислительных машин и человеческий разум -l
+- [ ] `Читаем Тьюринга by Петцольд | Annotated Turing `// 385p+  
+- [ ] The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary" Реймонд
 - [ ] Cognition in Practice: Mind, Mathematics and Culture in Everyday Life (Learning in Doing) by Jean Lave  
 - [ ] Бертран Рассел «Похвала праздности»
 - [x] `Richard Dawkins "The selfish gene"` 
