@@ -56,7 +56,7 @@
 - [x] "Апология математики" Владимир Успенский -beginners
 - [x] `«Симпсоны и их математические секреты» Саймон Сингх` -awesome 
 - [ ] Концепции современной математики" Я. Стюарт -future
-
+- [ ] Michael Huth, Mark Ryan "Logic in Computer Science"
 - [ ] `Сингх "Книга шифров" The Code Book  -f -a`
 
 - [ ] The Joy of x. A Guided Tour of Math, from One to Infinity -joy -calculus
