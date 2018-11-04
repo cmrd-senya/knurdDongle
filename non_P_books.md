@@ -9,7 +9,7 @@
 - [ ] `Читаем Тьюринга by Петцольд | Annotated Turing `// 385p+  
 - [ ] The Cathedral and the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary" Реймонд
 - [ ] Cognition in Practice: Mind, Mathematics and Culture in Everyday Life (Learning in Doing) by Jean Lave  
-- [ ] Бертран Рассел «Похвала праздности»
+- [x] Бертран Рассел «Похвала праздности»
 - [x] `Richard Dawkins "The selfish gene"` 
 - [ ] Гарри Поттер и методы рационального мышления //TL
 - [x] Абсолютное превосходство by Артур Кларк 
