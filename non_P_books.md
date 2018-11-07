@@ -1,5 +1,6 @@
 - [x] Не заставляйте меня думать// too easy
 - [ ] The Courage to be Disliked by Ichiro Kishimi and Fumitake Koga
+- [ ] Марк Мэнсон "Тонкое искусство пофигизма"
 - [ ] Прелюдия к математике by Сойер//192
 - [x] `just4fun Linus Torvalds ` -MUSTREAD -FOSS
 - [ ]  The Ambidextrous Universe //forgotten Chien-Shiung Wu 
