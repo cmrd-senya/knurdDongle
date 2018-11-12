@@ -1,5 +1,5 @@
-
-Приключе́ния майо́ра Звя́гина Михаил Веллер
+- [ ] Work: Rules for Focused Success in a Distracted World
+- [ ] Приключе́ния майо́ра Звя́гина Михаил Веллер
 - [x] Не заставляйте меня думать// too easy
 - [ ] The Courage to be Disliked by Ichiro Kishimi and Fumitake Koga
 - [ ] Марк Мэнсон "Тонкое искусство пофигизма"
