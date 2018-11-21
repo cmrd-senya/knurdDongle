@@ -1,3 +1,4 @@
+https://nauchikus.gitlab.io/typescript-definitive-guide/book/contents.html
 
 https://guides.rubyonrails.org
 
