@@ -5,6 +5,7 @@ https://www.intmath.com/
 https://nauchikus.gitlab.io/typescript-definitive-guide/book/contents.html
 
 https://guides.rubyonrails.org
+http://rusrails.ru/
 
 https://racket-lang.org/books.html
 
