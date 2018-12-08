@@ -38,3 +38,6 @@
 - [ ] Фридрих Георг Юнгер «Совершенство техники» 
 - [ ] Владимир Андреевич Успенский Труды по нематематикеhttp://www.math.ru/lib/files/pdf/shen/usp/usp-all.pdf
 
+
+https://thestartupbook.club/
+
