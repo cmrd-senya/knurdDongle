@@ -1,5 +1,7 @@
 https://w3c.github.io/webrtc-quic/
 
+https://ru.wikibooks.org/wiki/Ruby_FAQ
+
 https://www.intmath.com/
 
 https://nauchikus.gitlab.io/typescript-definitive-guide/book/contents.html
