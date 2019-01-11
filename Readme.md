@@ -2,7 +2,7 @@
 ### Books
 ****
 
-
+Robert L. Constable (1998). "Types in computer science, philosophy and logic". In Handbook of Proof Theory.
 - [x] Теоретический минимум по Computer Science
 - [ ] Real-World Algorithms. A Beginner’s Guide Panos Louridas
 - [ ] Ruby Under a Microscope: An Illustrated Guide to Ruby Internals 1st Edition by Pat Shaughnessy //hard
